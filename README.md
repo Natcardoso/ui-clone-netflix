@@ -4,11 +4,10 @@
 Esse projeto foi desenvolvido para aprender e testar meus conhecimentos em css, animações, etc ...
 
 
-## Screenshots
+## Video
 
 <div align="center">
-  <img width="450px" src=""/>
-  <img width="450px" src=""/>
+
 </div>
 
 
