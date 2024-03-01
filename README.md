@@ -1,17 +1,14 @@
+<h1 align="center"> Clone Ui - Netflix </h1>
 
-# Clone Ui - Netflix
-
-Esse projeto foi desenvolvido para aprender e testar meus conhecimentos em css, animações, etc ...
-
-
-## Video
-
-<div align="center">
-
-</div>
+<p align="center">
+  Esse projeto foi desenvolvido para aprender e testar meus conhecimentos em css, animações, etc ...
+</p>
+  <img src="https://github.com/Natcardoso/netflix/assets/88684378/7e6785d8-48d0-4805-b4b6-c27e6103bd9d" />
 
 
-## Stack utilizada
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React
 - Typescript
@@ -21,37 +18,13 @@ Esse projeto foi desenvolvido para aprender e testar meus conhecimentos em css, 
 - React Router Dom
 - Api - The movie database Api(TMDB)
 
-
-## Funcionalidades
+## 📄 Funcionalidades
 
 - Animações
 - Apis
 - Players de movie
+- Descrição dos filmes
 
+---
 
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone https://github.com/Natcardoso/netflix.git
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd my-project
-```
-
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
-```
-
+Feito by Nat :wave:
