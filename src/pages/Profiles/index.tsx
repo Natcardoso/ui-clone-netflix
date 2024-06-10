@@ -19,7 +19,7 @@ export const Profiles = () => {
             <span>Quem está assistindo?</span>
             <s.DivProfiles>
                 {nameProfile.map((name) => (
-                    <div key={name} onClick={() => navigate("/netflix")}>
+                    <div key={name} onClick={() => navigate("/inicio")}>
                         <img src="https://occ-0-331-185.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABZf5kiIAuiZG_DvLse1xSkgukFUqHQQR5d6qSDQBlw720nd7cYHcXavvtFNfg5814g1njOdPHGbrKYs9KdWq9hnEqL2-xxh5MA.png?r=1d4" />
                         <span>{name}</span>
                     </div>
