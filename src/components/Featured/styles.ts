@@ -9,6 +9,7 @@ export const ShadowTop = styled.div`
     width: inherit;
     height: inherit;
     padding: 0 3.5rem;
+    background: linear-gradient(to right, var(--black) 0%, transparent 100%);
 `;
 
 export const DivLogo = styled.div`

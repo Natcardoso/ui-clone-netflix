@@ -1,9 +1,6 @@
-import React from "react";
-
 import { AiOutlineInfoCircle } from "react-icons/ai";
 import { FaPlay } from "react-icons/fa";
 import { ReactComponent as LogoLetter } from "../../img/logo-letter.svg";
-
 import * as s from "./styles";
 
 type Props = {

@@ -6,8 +6,8 @@ import { Routes, Route } from "react-router-dom";
 export const Router = () => {
     return (
         <Routes>
-            <Route path="/" index element={<Profiles />} />
-            <Route path="/netflix" element={<MainPage />} />
+            <Route path="/ui-clone-netflix" index element={<Profiles />} />
+            <Route path="/inicio" element={<MainPage />} />
         </Routes>
     );
 };
