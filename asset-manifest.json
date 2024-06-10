@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/ui-clone-netflix/static/js/main.8b5c4a4c.js",
+    "reactPlayerPreview.js": "/ui-clone-netflix/static/js/reactPlayerPreview.98427f64.chunk.js",
+    "static/media/img-profile.svg": "/ui-clone-netflix/static/media/img-profile.051ec0005500773faacd5f7a4755b72c.svg",
+    "static/media/superLike.svg": "/ui-clone-netflix/static/media/superLike.82edb542707bdf759fc94eac914d1ad5.svg",
+    "static/media/like.svg": "/ui-clone-netflix/static/media/like.8b6c0742f4af7bb4c582523f6ef1cbb8.svg",
+    "static/media/deslike.svg": "/ui-clone-netflix/static/media/deslike.a66903857aaaae1b9fdaef2b0734252a.svg",
+    "static/media/withSound.svg": "/ui-clone-netflix/static/media/withSound.e62914e5489eae636ebe24a35167031a.svg",
+    "static/media/logo.svg": "/ui-clone-netflix/static/media/logo.c8479ece65f26b534b403d0973ab101d.svg",
+    "static/media/bell.svg": "/ui-clone-netflix/static/media/bell.a86c37221e9d050f44e0277d0b905913.svg",
+    "static/media/noSound.svg": "/ui-clone-netflix/static/media/noSound.fe073392df9d495cb37490c6145298db.svg",
+    "index.html": "/ui-clone-netflix/index.html",
+    "static/media/badge-hd.svg": "/ui-clone-netflix/static/media/badge-hd.5553ae964295ee2780bab989abcaeb9a.svg",
+    "static/media/logo-letter.svg": "/ui-clone-netflix/static/media/logo-letter.14069f1f230d00d854b79f3c88c41511.svg",
+    "static/media/search.svg": "/ui-clone-netflix/static/media/search.3c0d00b453ecbd31b1e472ad7549cb6c.svg",
+    "static/media/close.svg": "/ui-clone-netflix/static/media/close.5b26006fa59636e9d994c00511efd420.svg",
+    "static/media/play-arrow.svg": "/ui-clone-netflix/static/media/play-arrow.858619a6a1138ba4b8fba2f8b31a4b4d.svg",
+    "static/media/ball-separation.svg": "/ui-clone-netflix/static/media/ball-separation.956902febe81946f067002f8c79c501a.svg",
+    "main.8b5c4a4c.js.map": "/ui-clone-netflix/static/js/main.8b5c4a4c.js.map",
+    "reactPlayerPreview.98427f64.chunk.js.map": "/ui-clone-netflix/static/js/reactPlayerPreview.98427f64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b5c4a4c.js"
+  ]
+}
