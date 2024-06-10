@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ui-clone-netflix/static/js/main.8b5c4a4c.js",
+    "main.js": "/ui-clone-netflix/static/js/main.a8cd8c04.js",
     "reactPlayerPreview.js": "/ui-clone-netflix/static/js/reactPlayerPreview.98427f64.chunk.js",
     "static/media/img-profile.svg": "/ui-clone-netflix/static/media/img-profile.051ec0005500773faacd5f7a4755b72c.svg",
     "static/media/superLike.svg": "/ui-clone-netflix/static/media/superLike.82edb542707bdf759fc94eac914d1ad5.svg",
@@ -17,10 +17,10 @@
     "static/media/close.svg": "/ui-clone-netflix/static/media/close.5b26006fa59636e9d994c00511efd420.svg",
     "static/media/play-arrow.svg": "/ui-clone-netflix/static/media/play-arrow.858619a6a1138ba4b8fba2f8b31a4b4d.svg",
     "static/media/ball-separation.svg": "/ui-clone-netflix/static/media/ball-separation.956902febe81946f067002f8c79c501a.svg",
-    "main.8b5c4a4c.js.map": "/ui-clone-netflix/static/js/main.8b5c4a4c.js.map",
+    "main.a8cd8c04.js.map": "/ui-clone-netflix/static/js/main.a8cd8c04.js.map",
     "reactPlayerPreview.98427f64.chunk.js.map": "/ui-clone-netflix/static/js/reactPlayerPreview.98427f64.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b5c4a4c.js"
+    "static/js/main.a8cd8c04.js"
   ]
 }
